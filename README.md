@@ -1,4 +1,4 @@
-# 🧰 Internet & Wireless Hacking Tools
+# Internet & Wireless Hacking Tools
 
 A curated collection of the most powerful and widely used hardware hacking tools for penetration testing, signal analysis, RFID cloning, wireless sniffing, and more.
 
